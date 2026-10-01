@@ -7,4 +7,4 @@ a1(a=10, b=15, c=20, d=25, e=30)
 
 def count(**a):
     return len(a)
-print(count(name="Milan", age=20, city="Rajkot"))
+print(count(name="asfvzx", age=20))
