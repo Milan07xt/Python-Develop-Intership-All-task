@@ -41,17 +41,19 @@ Through these internship tasks, I am focusing on:
 Python-Develop-Intership-All-task/
 │
 ├── TASK/
-│   ├── Day1/
-│   ├── Day2/
-│   ├── Day3/
-│   ├── Day4/
-│   ├── Day5/
-│   ├── Day6/
-│   ├── Day7/
-│   ├── Day8/
-│   ├── Day9/
+│   ├── README.md
+│   ├── Day01/
+│   ├── Day02/
+│   ├── Day03/
+│   ├── Day04/
+│   ├── Day05/
+│   ├── Day06/
+│   ├── Day07/
+│   ├── Day08/
+│   ├── Day09/
 │   ├── Day10/
-│   └── Day11/
+│   ├── ...
+│   └── Day30/
 │
 ├── Practice/
 │   ├── p1.py
@@ -69,23 +71,7 @@ Python-Develop-Intership-All-task/
 
 ## 📚 Internship Tasks
 
-The `TASK` directory contains daily internship work organized from **Day 1 to Day 11**.
-
-| Day | Folder       | Description                                |
-| --- | ------------ | ------------------------------------------ |
-| 1   | `TASK/Day1`  | Python development task practice           |
-| 2   | `TASK/Day2`  | Python programming exercises               |
-| 3   | `TASK/Day3`  | Python concepts and coding practice        |
-| 4   | `TASK/Day4`  | Problem-solving exercises                  |
-| 5   | `TASK/Day5`  | Python programming practice                |
-| 6   | `TASK/Day6`  | Functions and logical programming practice |
-| 7   | `TASK/Day7`  | Data structure and programming exercises   |
-| 8   | `TASK/Day8`  | Python coding practice                     |
-| 9   | `TASK/Day9`  | Programming exercises                      |
-| 10  | `TASK/Day10` | Python development exercises               |
-| 11  | `TASK/Day11` | Additional internship practice             |
-
-> Each day's folder contains the corresponding work completed during the internship training.
+The `TASK` directory contains daily internship folders named `Day01` through `Day30`. The leading zero keeps the folders in numeric order in file browsers and on GitHub. See [`TASK/README.md`](TASK/README.md) for the day-by-day topic index.
 
 ---
 
