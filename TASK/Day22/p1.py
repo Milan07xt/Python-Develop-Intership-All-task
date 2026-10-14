@@ -18,4 +18,3 @@ def a3():
     return b2()
 a3()
 print(a3.__name__)
-print(a3.__doc__)
