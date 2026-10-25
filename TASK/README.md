@@ -13,7 +13,7 @@ This folder contains Python exercises organized by day. The folder names use two
 | 5 | `Day05` | Loops, even/odd checks, and maximum/minimum values |
 | 6 | `Day06` | Functions, comparisons, multiplication tables, and even-number sums |
 | 7 | `Day07` | Functions, default arguments, Fibonacci, lists, and palindrome checks |
-| 8 | `Day08` | Lists, iteration, nested lists, and list-processing functions |
+| 8 | `Day08` | Lists, iteration, nested lists, and list-processing functions | 
 | 9 | `Day09` | Lists, tuples, tuple iteration, and built-in functions |
 | 10 | `Day10` | Dictionaries, character counts, factorials, and divisors |
 | 11 | `Day11` | Dictionaries, sets, and set operations |

@@ -53,7 +53,7 @@ Python-Develop-Intership-All-task/
 │   ├── Day09/
 │   ├── Day10/
 │   ├── ...
-│   └── Day30/
+│   └── Day50/
 │
 ├── Practice/
 │   ├── p1.py
@@ -71,7 +71,7 @@ Python-Develop-Intership-All-task/
 
 ## 📚 Internship Tasks
 
-The `TASK` directory contains daily internship folders named `Day01` through `Day30`. The leading zero keeps the folders in numeric order in file browsers and on GitHub. See [`TASK/README.md`](TASK/README.md) for the day-by-day topic index.
+The `TASK` directory contains daily internship folders named `Day01` through `Day50`. The leading zero keeps the folders in numeric order in file browsers and on GitHub. See [`TASK/README.md`](TASK/README.md) for the day-by-day topic index.
 
 ---
 
