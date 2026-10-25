@@ -1,0 +1,5 @@
+phone1 = Phone('Nokia', '1100', -1000) 
+print(phone1.brand) 
+print(phone1.model_name) 
+print(phone1.price) 
+print(phone1.complete_specification)
